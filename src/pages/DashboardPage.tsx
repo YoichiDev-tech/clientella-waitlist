@@ -19,7 +19,7 @@ export function DashboardPage() {
     cancelledCount: 0
   });
 
-  const [bookings, setBookings] = useState<[]>([]);
+  const [bookings, setBookings] = useState<Booking[]>([]);
   const [loading, setLoading] = useState(true);
 
   async function loadStats() {
