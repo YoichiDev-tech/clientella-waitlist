@@ -4,6 +4,11 @@ This is a minimum viable product designed to validate the concept of reducing no
 small appointment-based businesses such as barbers, salons, coaches, therapists, and similar service providers.
 
 
+## Screenshot
+
+![alt text](image.png)
+
+
 ## Version
 
 This is an MVP version and is intended for validation and early testing. It focuses on essential functionality 
