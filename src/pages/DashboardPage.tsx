@@ -5,7 +5,7 @@ import { Layout } from "../components/Layout";
 import { BookingForm } from "../components/BookingForm";
 import { BookingList } from "../components/BookingList";
 import { RiskChart } from "../components/RiskChart";
-import { RecoveryChart } from "../components/recoveryChart";
+import { RecoveryChart } from "../components/RecoveryChart";
 import { StatusChart } from "../components/StatusChart";
 
 import { calculateRecovery } from "../services/recoveryEngine";
